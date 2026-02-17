@@ -1,0 +1,14 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 2047-E569
+
+ Содержимое папки C:\Windows
+
+01.10.2025  21:21    <DIR>          BitLockerDiscoveryVolumeContents
+07.12.2019  12:31    <DIR>          Media
+07.12.2019  12:14    <DIR>          Downloaded Program Files
+30.10.2025  20:00    <DIR>          Fonts
+03.02.2026  13:43    <DIR>          Installer
+03.02.2026  13:43    <DIR>          assembly
+17.02.2026  10:03            67 584 bootstat.dat
+               1 файлов         67 584 байт
+               6 папок  742 177 624 064 байт свободно

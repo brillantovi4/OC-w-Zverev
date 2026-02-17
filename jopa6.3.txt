@@ -1,0 +1,15 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 2047-E569
+
+ Содержимое папки C:\Windows
+
+03.02.2026  13:43    <DIR>          assembly
+30.10.2025  20:00    <DIR>          Fonts
+08.11.2025  16:56    <DIR>          ImmersiveControlPanel
+07.12.2019  12:31    <DIR>          Media
+17.02.2026  17:21    <DIR>          Microsoft.NET
+07.12.2019  12:14    <DIR>          Offline Web Pages
+01.10.2025  21:21    <DIR>          PrintDialog
+07.12.2019  12:09               670 WindowsShell.Manifest
+               1 файлов            670 байт
+               7 папок  742 177 923 072 байт свободно
